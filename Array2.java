@@ -17,7 +17,7 @@ class Array2
 		}
 		for(int i:array)
 		{
-		System.out.println(i);
+		System.out.println("val:"+i);
 		}
 	}
 }
